@@ -1,2 +1,1 @@
-세영
-주세영
+System.out.println("주세영");
