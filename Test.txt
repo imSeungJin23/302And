@@ -1,2 +1,1 @@
-인혁
-승진
+System.out.println("주세영");
